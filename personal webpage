@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Fanglin Chen</title>
+  <style>
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 16px;
+      line-height: 1.6;
+    }
+    h1, h2 { margin-bottom: 0.3em; }
+    .subtitle { color: #555; margin-bottom: 1.2em; }
+    nav a { margin-right: 12px; }
+    section { margin-top: 2em; }
+  </style>
+</head>
+<body>
+  <h1>Fanglin Chen</h1>
+  <div class="subtitle">
+    Assistant Professor of Marketing · University of Miami<br>
+    Quantitative Marketing · AI & Machine Learning · Customer Dynamics
+  </div>
+
+  <nav>
+    <a href="#research">Research</a>
+    <a href="#teaching">Teaching</a>
+    <a href="#students">Students</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <h2>About</h2>
+    <p>
+      I am an assistant professor of marketing at the University of Miami. My main research interests center around the intersection of marketing and machine learning, specifically in the areas of product competition and consumer targeting. 
+      In one research stream, I focus on extracting information from product co-purchase patterns to understand product relationships and market structure. The other research stream focuses on developing sequential targeting strategies to boost customer retention via machine learning. 
+      I am also interested in studying media consumption, including both traditional media and digital media.
+    </p>
+  </section>
+
+  <section id="research">
+    <h2>Research</h2>
+    <ul>
+      <li>Paper 1 – <em>Title here</em> (with coauthors). Short 1–2 sentence description.</li>
+      <li>Paper 2 – <em>Title here</em>. Working paper / under review at …</li>
+    </ul>
+  </section>
+
+  <section id="teaching">
+    <h2>Teaching</h2>
+    <p>Marketing Analytics, Quantitative Marketing, [other courses].</p>
+  </section>
+
+  <section id="CV">
+    <h2>CV</h2>
+    <p>
+
+    </p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: fanglinchen@miami.edu</p>
+  </section>
+</body>
+</html>
